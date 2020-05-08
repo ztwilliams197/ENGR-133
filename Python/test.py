@@ -1,0 +1,9 @@
+data = {}
+data['rpm'] = 1
+data['analog_a'] = 2
+data['analog_b'] = 3
+data['lap_count'] = 0
+data['energy'] = 3
+data['gyro_x'] = 5 # TODO: x/y might be wrong
+data['gyro_y'] = 2
+data['gyro_z'] = -7
